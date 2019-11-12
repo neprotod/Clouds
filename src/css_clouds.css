@@ -1,0 +1,90 @@
+html,
+body {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background: #55beed;
+  margin: 0;
+}
+.cloud {
+  position: absolute;
+  background: url(/src/cloud.png) no-repeat;
+}
+#clouds_plase {
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+  background: #55beed;
+  z-index: 1;
+}
+#clouds1 {
+  width: 289px;
+  left: 200px;
+  top: 50px;
+  height: 170px;
+  background-position: 10px -0px;
+}
+#clouds2 {
+  position: absolute;
+  top: 300px;
+  left: 200px;
+  width: 370px;
+  height: 255px;
+  background-position: 0px -210px;
+}
+#clouds3 {
+  position: absolute;
+  top: 350px;
+  left: 200px;
+  width: 310px;
+  height: 135px;
+  background-position: -25px -535px;
+}
+#clouds4 {
+  position: absolute;
+  width: 289px;
+  left: 200px;
+  top: 50px;
+  height: 170px;
+  background-position: 10px -0px;
+}
+#clouds5 {
+  position: absolute;
+  top: 300px;
+  left: 200px;
+  width: 370px;
+  height: 255px;
+  background-position: 0px -210px;
+}
+#clouds6 {
+  position: absolute;
+  top: 350px;
+  left: 200px;
+  width: 310px;
+  height: 135px;
+  background-position: -25px -535px;
+}
+#clouds7 {
+  position: absolute;
+  width: 289px;
+  left: 200px;
+  top: 50px;
+  height: 190px;
+  background-position: -72px -675px;
+}
+#clouds8 {
+  position: absolute;
+  top: 250px;
+  left: 200px;
+  width: 370px;
+  height: 255px;
+  background-position: 0px -900px;
+}
+#clouds9 {
+  position: absolute;
+  top: 350px;
+  left: 200px;
+  width: 300px;
+  height: 135px;
+  background-position: -10px -1230px;
+}
